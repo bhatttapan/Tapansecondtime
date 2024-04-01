@@ -8,4 +8,7 @@ public class LoginPage {
 		System.out.println("simple login page");
 	}
 	
+	public void logout() {
+		System.out.println("logging out from the application");
+	}
 }
